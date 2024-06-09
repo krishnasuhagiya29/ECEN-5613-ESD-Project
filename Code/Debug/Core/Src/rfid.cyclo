@@ -1,0 +1,14 @@
+../Core/Src/rfid.c:34:6:RC522_init	1
+../Core/Src/rfid.c:60:6:RC522_spi_cs_write	2
+../Core/Src/rfid.c:68:9:RC522_reg_read8	1
+../Core/Src/rfid.c:78:6:RC522_reg_write8	1
+../Core/Src/rfid.c:85:6:RC522_set_bit	1
+../Core/Src/rfid.c:89:6:RC522_clear_bit	1
+../Core/Src/rfid.c:93:6:RC522_reset	1
+../Core/Src/rfid.c:97:6:RC522_antenna_ON	2
+../Core/Src/rfid.c:106:6:RC522_check_card	2
+../Core/Src/rfid.c:120:6:RC522_request	3
+../Core/Src/rfid.c:132:6:RC522_to_card	16
+../Core/Src/rfid.c:216:6:RC522_anti_coll	4
+../Core/Src/rfid.c:240:6:RC522_halt	1
+../Core/Src/rfid.c:251:6:RC522_calculate_CRC	4

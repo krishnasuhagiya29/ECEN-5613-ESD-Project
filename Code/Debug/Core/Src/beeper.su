@@ -1,0 +1,2 @@
+../Core/Src/beeper.c:23:6:beeper_init	4	static
+../Core/Src/beeper.c:32:6:beeper_enable	8	static

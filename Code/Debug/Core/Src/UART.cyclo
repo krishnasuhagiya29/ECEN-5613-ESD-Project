@@ -1,0 +1,4 @@
+../Core/Src/UART.c:24:6:USART2_init	1
+../Core/Src/UART.c:40:6:USART2_transmit	2
+../Core/Src/UART.c:47:6:USART2_receive	2
+../Core/Src/UART.c:54:6:USART2_string_transmit	2

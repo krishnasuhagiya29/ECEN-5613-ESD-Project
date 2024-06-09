@@ -1,0 +1,2 @@
+../Core/Src/keypad.c:41:6:init_keypad	4	static
+../Core/Src/keypad.c:61:7:check_key	16	static
